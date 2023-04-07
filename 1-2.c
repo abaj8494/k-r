@@ -2,6 +2,7 @@
 
 int main()
 {
-    printf("hello \cworld \n");
+    printf("hello \tworld \n");
+    // printf("hello \cworld \n");
     // compiler complains with "unknown escape sequence"
 }
